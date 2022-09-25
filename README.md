@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am a software engineering student looking to expand on my knowledge bag.
+I am a software engineering student <!-- looking to expand on my knowledge bag. -->
 
 * 🌍  I'm based in Buenos Aires
 * 🖥️  See my portfolio at [TomasRighetti](http://tomasrighetti.github.io/portfolio)
