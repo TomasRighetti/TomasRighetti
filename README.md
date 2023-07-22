@@ -9,7 +9,7 @@ I am a software engineering student <!-- looking to expand on my knowledge bag. 
 * 🌍  I'm based in Buenos Aires
 * 🖥️  See my portfolio at [TomasRighetti](http://tomasrighetti.github.io/portfolio)
 * ✉️  You can contact me at [tomyrighetti@gmail.com](mailto:tomyrighetti@gmail.com)
-* 🚀  I'm currently working on [Camping Site](http://acamp.ar)
+* 🚀  I'm currently working on [Camping Site](https://github.com/TomasRighetti/camping_site)
 * 🧠  I'm learning C
 * 🤝  I'm open to collaborating on Open Source Projects
 
